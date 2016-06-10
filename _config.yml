@@ -1,0 +1,14 @@
+layout_spectrum: 0.4834178036544472
+typography_spectrum: 0.9998226796742529
+color:
+  brandStrength: 0.8315948261879385
+  lightness: 0.8201360232196748
+  saturation: 0.16176168317906559
+  rhythmicContrast: 0.7300013394560665
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Creators Space
