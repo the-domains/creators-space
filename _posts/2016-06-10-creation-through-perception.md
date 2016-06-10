@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-10T09:38:42.892Z'
+datePublished: '2016-06-10T09:38:46.559Z'
 sourcePath: _posts/2016-06-10-creation-through-perception.md
 author: []
-dateModified: '2016-06-10T09:38:42.422Z'
+dateModified: '2016-06-10T09:38:46.283Z'
 title: Creation Through Perception
 description: ''
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
