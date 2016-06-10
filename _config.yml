@@ -1,19 +1,19 @@
-typography_spectrum: 0.7967921656090766
+typography_spectrum: 0.9998226796742529
 color:
-  brandStrength: 0.045000659534707665
-  lightness: 0.5362018318846822
-  saturation: 0.5874524503014982
-  rhythmicContrast: 0.8371195583604276
+  brandStrength: 0.8315948261879385
+  lightness: 0.8201360232196748
+  saturation: 0.16176168317906559
+  rhythmicContrast: 0.7300013394560665
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
-layout_spectrum: 0.6579253522213548
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.4834178036544472
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed434c81-5d9e-4b0f-8c94-ba2d9934842f.svg
 name: Third Eye Visual Concepts
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cff6808c-d1cd-4b24-a630-69795fb0ff89.jpg
-title: Creation Through Perception
+title: Third Eye Visual Concepts
