@@ -1,4 +1,3 @@
-layout_spectrum: 0.4834178036544472
 typography_spectrum: 0.9998226796742529
 color:
   brandStrength: 0.8315948261879385
@@ -11,5 +10,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.4834178036544472
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed434c81-5d9e-4b0f-8c94-ba2d9934842f.svg
 name: Third Eye Visual Concepts
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cff6808c-d1cd-4b24-a630-69795fb0ff89.jpg
 title: Creation Through Perception
