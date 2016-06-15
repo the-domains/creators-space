@@ -1,16 +1,16 @@
-typography_spectrum: 0.5211076729465276
+typography_spectrum: 0.7479570952709764
 color:
-  brandStrength: 0.6298450056929141
-  lightness: 0.1051304554566741
-  saturation: 0.44717628695070744
-  rhythmicContrast: 0.5774415254127234
+  brandStrength: 0.46609287173487246
+  lightness: 0.6544507688377053
+  saturation: 0.8520436950493604
+  rhythmicContrast: 0.380517557496205
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
-layout_spectrum: 0.5250963259022683
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+layout_spectrum: 0.8623783462680876
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed434c81-5d9e-4b0f-8c94-ba2d9934842f.svg
 name: Third Eye Visual Concepts
