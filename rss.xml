@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Third Eye Visual Concepts -Creation Through Perception]]></title>
-        <description><![CDATA[Third Eye Visual Concepts -Creation Through Perception]]></description>
+        <title><![CDATA[Third Eye Visual Concepts - Creation Through Perception]]></title>
+        <description><![CDATA[Third Eye Visual Concepts - Creation Through Perception]]></description>
         <link>https://thegrid.ai/thirdeyevc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 06:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 06:51:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thirdeyevc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creation Through Perception]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Like many other kids, I liked watching anime - Takashi Murakami 😱🙏]]></title>
-            <description><![CDATA[<article><h1>Like many other kids, I liked watching anime - Takashi Murakami 😱🙏</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12912837_1760988880801142_1290155612_n.jpg?ig_cache_key=MTIzMzQ3Njc0ODk4MTkwODU0MQ%3D%3D.2"></article>]]></description>
+            <description><![CDATA[<article><h1>Like many other kids, I liked watching anime - Takashi Murakami 😱🙏</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/682b795d6eaf7fcec5a63ba765b94ed6617c5b3d.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BEeMJFlxTQ9/</link>
             <guid isPermaLink="false">a9f3c904-3671-434a-b675-aa61c84f5eb4</guid>
             <pubDate>Tue, 14 Jun 2016 06:30:55 GMT</pubDate>
@@ -54,13 +54,6 @@
             <link>https://thegrid.ai/thirdeyevc/d16f6fb0-fe17-4b80-b4a0-2bb2a34ae94d/index.html</link>
             <guid isPermaLink="false">d16f6fb0-fe17-4b80-b4a0-2bb2a34ae94d</guid>
             <pubDate>Fri, 10 Jun 2016 09:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca4dd663-127f-47b3-9484-1c6bf94f307c.jpg">]]></description>
-            <link>https://thegrid.ai/thirdeyevc/332d1d9b-4294-4c56-94f2-e91694cbf5d7/index.html</link>
-            <guid isPermaLink="false">332d1d9b-4294-4c56-94f2-e91694cbf5d7</guid>
-            <pubDate>Fri, 10 Jun 2016 09:32:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
