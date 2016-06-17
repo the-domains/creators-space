@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-15T08:58:04.981Z'
+datePublished: '2016-06-17T00:29:20.991Z'
 sourcePath: _posts/2016-06-10-creation-through-perception.md
 author: []
-dateModified: '2016-06-15T08:58:04.645Z'
+dateModified: '2016-06-15T08:59:39.873Z'
 title: ''
 description: >-
   A video production and digital marketing company that guarantees to deliver
