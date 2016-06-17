@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-06-17T00:30:11.180Z'
+datePublished: '2016-06-17T00:35:05.719Z'
 sourcePath: _posts/2016-06-10-creation-through-perception.md
 author: []
-dateModified: '2016-06-17T00:29:37.171Z'
+dateModified: '2016-06-17T00:30:20.107Z'
 title: ''
-description: >-
-  A video production and digital marketing company that guarantees to deliver
-  your message directly to local customers.
+description: '  '
 starred: true
 inFeed: true
 hasPage: true
@@ -17,6 +15,3 @@ _type: Article
 
 ---
 ![  ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b65c0883703f71fe8c299a49a170cd3981475642.png)
-
-A video production and digital marketing company  
-that guarantees to deliver your message directly to local customers.
