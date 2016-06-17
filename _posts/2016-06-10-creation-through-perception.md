@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-17T00:37:34.489Z'
+datePublished: '2016-06-17T00:38:35.188Z'
 sourcePath: _posts/2016-06-10-creation-through-perception.md
 author: []
-dateModified: '2016-06-17T00:35:30.640Z'
+dateModified: '2016-06-17T00:38:02.984Z'
 title: ''
 description: '  '
 starred: true
