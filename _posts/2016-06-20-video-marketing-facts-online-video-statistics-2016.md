@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-20T08:27:23.649Z'
+datePublished: '2016-06-20T08:32:38.390Z'
 sourcePath: _posts/2016-06-20-video-marketing-facts-online-video-statistics-2016.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=AbRaL2uDU20'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Why you NEED Video
     url: 'https://www.youtube.com/channel/UCZ_UWcQ2xHuGAN46Pm0-WpA'
     avatar: {}
-dateModified: '2016-06-20T08:25:18.131Z'
+dateModified: '2016-06-20T08:30:05.505Z'
 title: Video Marketing  Video Statistics 2016
 app_links: []
 publisher:
@@ -17,11 +17,8 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 description: >-
-  A short video illustrating the essential Video Marketing Facts and Statistics
-  that every entrepreneur and business owner needs to know for 2015. Video is a
-  must for business marketing today, using the power of YouTube and Social
-  Media. We create engaging and cost-effective video solutions for all kinds and
-  sizes of businesses.
+  See why video is becoming the fastest growing trend in customer retention and
+  acquisition. Those who arent using video are LOSING BIG. 
 starred: false
 inFeed: true
 hasPage: false
