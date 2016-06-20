@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-20T08:39:51.145Z'
+datePublished: '2016-06-20T08:39:56.048Z'
 sourcePath: _posts/2016-06-15-i-dont-see-why-people-make-a-big-deal-about-this-bridge-c.md
 isBasedOnUrl: 'https://www.instagram.com/p/BE92g4bG-iW/?taken-by=rigobertoeliflores'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-20T08:39:29.305Z'
+dateModified: '2016-06-20T08:39:52.047Z'
 title: 'Bixby Bridge, Big Sur'
 app_links:
   - url: 'instagram://media?id=1242388826343336086'
