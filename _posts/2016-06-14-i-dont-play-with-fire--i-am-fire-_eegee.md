@@ -1,16 +1,15 @@
 ---
+datePublished: '2016-06-20T08:16:03.969Z'
+sourcePath: _posts/2016-06-14-i-dont-play-with-fire--i-am-fire-_eegee.md
+isBasedOnUrl: 'https://www.instagram.com/p/BD7CaqhIW92/?taken-by=thirdeyevc'
+keywords: []
+related: []
 author:
-  - name: thirdeyevc
+  - name: Third Eye Visual Concepts
     url: 'https://www.instagram.com/thirdeyevc'
     avatar: {}
-related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: >-
-    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
-  domain: www.instagram.com
-keywords: []
+dateModified: '2016-06-20T07:54:01.997Z'
+title: ''
 app_links:
   - url: 'instagram://media?id=1223582352213634934'
     type: ios
@@ -26,18 +25,19 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BD7CaqhIW92/?taken-by=thirdeyevc'
-title: "I don't play with fire . I am Fire \uD83D\uDD25\uD83D\uDD25\uD83D\uDD25 \uD83D\uDCF7@_eegee"
-datePublished: '2016-06-14T06:24:44.273Z'
-dateModified: '2016-06-14T06:23:50.080Z'
-description: ''
+publisher:
+  url: 'https://www.instagram.com'
+  name: Instagram
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
+  domain: www.instagram.com
+description: Benoit Clement of BB's Circus and Fire
 starred: false
-sourcePath: _posts/2016-06-14-i-dont-play-with-fire--i-am-fire-_eegee.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![I don't play with fire . I am Fire  @_eegee](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12317674_497067790490399_1963767837_n.jpg?ig_cache_key=MTIyMzU4MjM1MjIxMzYzNDkzNA%3D%3D.2)
+![Benoit Clement of BB's Circus and Fire](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f429d8a3bd5ceb0d0c9b9647ba42473093bc81e.jpg)
