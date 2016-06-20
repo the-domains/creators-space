@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-06-17T00:33:32.759Z'
+datePublished: '2016-06-20T08:15:41.358Z'
 sourcePath: _posts/2016-06-15-holi-festival-of-colors-it-was-my-pleasure-filming-you-h.md
 isBasedOnUrl: 'https://www.instagram.com/p/BC7YCXSG-nt/?taken-by=rigobertoeliflores'
 keywords: []
 related: []
 author:
-  - name: rigobertoeliflores
+  - name: Third Eye Visual Concepts
     url: 'https://www.instagram.com/rigobertoeliflores'
     avatar: {}
-dateModified: '2016-06-17T00:33:23.262Z'
+dateModified: '2016-06-20T07:47:30.602Z'
 title: ''
 app_links:
   - url: 'instagram://media?id=1205663040806840813'
@@ -31,7 +31,7 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: ''
+description: Holi Festival Of Colors 2016 Promo
 starred: false
 inFeed: true
 hasPage: false
