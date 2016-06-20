@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-20T08:37:52.067Z'
+datePublished: '2016-06-20T08:43:20.229Z'
 sourcePath: >-
   _posts/2016-06-17-eight-pointed-stareight-pointed-starfeature-of-the-dayeight-pointed-stareight-pointed-star-because-skating-in-a-city-is-too-main.md
 isBasedOnUrl: 'https://www.instagram.com/p/BE96NE8IW80/?taken-by=thirdeyevc'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-20T08:37:42.181Z'
+dateModified: '2016-06-20T08:43:14.442Z'
 title: Life Style is the only style we wear.
 app_links:
   - url: 'instagram://media?id=1242405057578757940'
