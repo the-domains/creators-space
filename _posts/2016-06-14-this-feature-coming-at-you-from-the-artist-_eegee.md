@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-20T08:48:49.610Z'
+datePublished: '2016-06-20T08:49:10.182Z'
 sourcePath: _posts/2016-06-14-this-feature-coming-at-you-from-the-artist-_eegee.md
 isBasedOnUrl: 'https://www.instagram.com/p/BEsA9j7oW2V/?taken-by=thirdeyevc'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Third Eye Visual Concepts
     url: 'https://www.instagram.com/thirdeyevc'
     avatar: {}
-dateModified: '2016-06-20T08:48:49.347Z'
+dateModified: '2016-06-20T08:49:02.709Z'
 title: An intricate passage or a simple elevator?
 app_links:
   - url: 'instagram://media?id=1237368228089523605'
@@ -31,7 +31,7 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: ''
+description: ' '
 starred: false
 inFeed: true
 hasPage: false
@@ -40,6 +40,6 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![An intricate passage or a simple elevator?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ca5b76d0a6a2be091989ffaec928e9d60e8d038.jpg)
+![ ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ca5b76d0a6a2be091989ffaec928e9d60e8d038.jpg)
 
 # An intricate passage or a simple elevator?
