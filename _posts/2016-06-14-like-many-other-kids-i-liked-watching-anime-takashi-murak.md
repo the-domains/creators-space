@@ -1,16 +1,12 @@
 ---
-author:
-  - name: _eegee
-    url: 'https://www.instagram.com/_eegee'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: >-
-    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
-  domain: www.instagram.com
+datePublished: '2016-06-20T08:15:53.310Z'
+sourcePath: _posts/2016-06-14-like-many-other-kids-i-liked-watching-anime-takashi-murak.md
+isBasedOnUrl: 'https://www.instagram.com/p/BEeMJFlxTQ9/'
 keywords: []
+related: []
+author: []
+dateModified: '2016-06-20T07:49:24.773Z'
+title: ''
 app_links:
   - url: 'instagram://media?id=1233476748981908541'
     type: ios
@@ -26,18 +22,19 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BEeMJFlxTQ9/'
-title: "Like many other kids, I liked watching anime - Takashi Murakami \uD83D\uDE31\uD83D\uDE4F"
-datePublished: '2016-06-14T06:30:55.535Z'
-dateModified: '2016-06-14T06:30:52.049Z'
-description: ''
+publisher:
+  url: 'https://www.instagram.com'
+  name: Instagram
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
+  domain: www.instagram.com
+description: Get lost in My world- Takashi Murakami
 starred: false
-sourcePath: _posts/2016-06-14-like-many-other-kids-i-liked-watching-anime-takashi-murak.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![Like many other kids, I liked watching anime - Takashi Murakami ](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12912837_1760988880801142_1290155612_n.jpg?ig_cache_key=MTIzMzQ3Njc0ODk4MTkwODU0MQ%3D%3D.2)
+![Get lost in My world- Takashi Murakami](https://s3-us-west-2.amazonaws.com/the-grid-img/p/682b795d6eaf7fcec5a63ba765b94ed6617c5b3d.jpg)
